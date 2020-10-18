@@ -1,0 +1,8 @@
+Range di misurazione e allarme: 0~100%
+Risoluzione: 1%
+Precisione:
+±2% (70~100%, Adulti, Pediatrico)
+±3% (70~100%, Neonatale)
+Misurazione pulsazioni: 25~300 bpm
+Risoluzione: 1 bpm
+Frequenza aggiornamento: 1 secondo

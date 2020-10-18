@@ -1,0 +1,16 @@
+Unità di misura: mmHg/kPa
+Tipologia di misurazione: Sistolica, Diastolica, Media
+Range di pressione:
+- Adulti
+Sistolica 40~270 mmHg
+Diastolica 10~215 mmHg
+Media 20~235 mmHg
+- Pediatrico
+Sistolica 40~200 mmHg
+Diastolica 10~150 mmHg
+Media 20~165 mmHg
+- Neonatale
+Sistolica 40~135 mmHg
+Diastolica 10~100 mmHg
+Media 20~110 mmHg
+Risoluzione: 1 mmHg

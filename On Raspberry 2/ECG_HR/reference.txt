@@ -1,0 +1,11 @@
+Range di battito cardiaco (HR):
+Adulti 15~300 bpm
+Pediatrico/Neonatale 15~350 bpm
+Risoluzione: 1 bpm
+Precisione: ±1 bpm o 1%
+
+For the HRV.
+-normal 0.6-1 s
+-Bradycardia >1.5s
+-Tachycardia <0.5s for the alarms we can verify if there are 3/4 consecutive values that aren't normal.
+		   For more disease that can be identified with the RR interval i still have to research more.	

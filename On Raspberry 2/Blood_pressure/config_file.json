@@ -1,0 +1,9 @@
+{
+  "sourceCatalog": "127.0.0.1:8080/",
+  "patient": "patient_2",
+  "Name": "Matteo",
+  "Surname": "Rossi",
+  "Age": "65",
+  "device_id": "374054",
+  "u": "mmHg"
+}

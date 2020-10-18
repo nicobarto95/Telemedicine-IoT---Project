@@ -1,0 +1,5 @@
+{"sourceCatalog":
+                {"url": "http://127.0.0.1:8080/"},
+  "patients": {"patient_1": "Nicola Bartolini",
+                              "patient_2": "Matteo Rossi"}
+}
